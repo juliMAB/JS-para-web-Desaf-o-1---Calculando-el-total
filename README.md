@@ -8,19 +8,24 @@ El objetivo es crear una página web interactiva donde el usuario pueda aumentar
 
 ## Instrucciones
 
-1. Abre el archivo `base.html` en tu navegador para probar el archivo JavaScript básico.
+1. Abre el archivo `index.html` en tu navegador para probar el archivo JavaScript básico.
 2. El archivo principal del desafío es `index.js`, que contiene la lógica para actualizar la cantidad y el precio total.
 3. Usa los botones para aumentar o disminuir la cantidad y observa cómo cambia el precio total.
 
 ## Archivos principales
 
 - `index.js`: Lógica principal del desafío.
-- `base.html`: Archivo HTML para probar el JS básico.
+- `index.html`: Archivo HTML principal de la aplicación.
+- `estilos.css`: Estilos CSS para la interfaz.
 - `02_d_Desafío_-_Calculando_el_total.pdf`: Instrucciones originales del desafío.
 
 ## ¿Cómo probar?
 
-1. Abre `base.html` para ver ejemplos básicos de JS.
+### Localmente
+1. Abre `index.html` en tu navegador para ver la aplicación.
+
+### GitHub Pages
+La aplicación está disponible en GitHub Pages. Simplemente visita la URL de GitHub Pages del repositorio para ver la calculadora en funcionamiento.
 
 ## Autor
 
